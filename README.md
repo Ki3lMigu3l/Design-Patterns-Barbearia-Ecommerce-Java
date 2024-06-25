@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Barbearia e E-commerce
 
-Este projeto tem por finalidade explora o uso dos padrões de projeto Singleton, Strategy e Facade para implementar um sistema de gerenciamento de uma barbearia e um E-commerce com Spring.]
+Este projeto tem por finalidade explora o uso dos padrões de projeto Singleton, Strategy e Facade para implementar um sistema de gerenciamento de uma barbearia e um E-commerce com Spring.
 
 ## Sistema de Gerenciamento de Barbearia
 
